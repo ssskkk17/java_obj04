@@ -24,5 +24,7 @@ public class SmartPhone extends Mp3Player {
 	}
 	public void internet() {
 		System.out.println("インターネット");
+		
 	}
+	
 }
